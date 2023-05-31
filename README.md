@@ -24,7 +24,7 @@ Rock-paper-scissors is a classic hand game played by people all around the world
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Souvik2376/Rock-Paper-Scissors.git
 ```
 
 Go to the project directory
